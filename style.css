@@ -5,7 +5,8 @@ body{
 
 #header{
 
-    background-image: url(./images/just-waves.webp);
+    background-color: rgb(171, 205, 241);
+
     
 }
 
@@ -22,7 +23,7 @@ body{
 }
 
 #contact{
-    background-image: url(./images/just-waves.webp);
+    background-color: rgb(171, 205, 241);;
 }
 
 .font{
